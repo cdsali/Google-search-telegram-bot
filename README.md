@@ -2,7 +2,7 @@ Telegram bot that allows users to perform Google searches directly within their 
 The bot utilizes the Google Custom Search API to fetch search results and presents them to the user in the chat interface
 
 
-Setup Instructions:
+Setup Instructions: 
 Clone the repository to your local machine.
 Install dependencies using npm install.
 Obtain a Telegram bot token and a Google API key with access to the Custom Search API.
